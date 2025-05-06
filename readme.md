@@ -6,7 +6,7 @@ This repository contains the official implementation of lllmaug2persionalityemot
 
 ## 📌News
 
-[2025.] - 🧨We released the latest checkpoint(v1.1) and inference code,in here.
+[2025.] - 🧨We released the baseline checkpoint(v1.1) and inference code,in here.
 [2025.] - The paper is available at here
 
 [2025.05.06] - The repository was build!, we need to go faster
@@ -31,9 +31,9 @@ Will be released later
 
 ## 📈Dataset
 
-### 1. CASME2
+### 1. chalearn
 
-### 2. CASME II
+### 2.  IEMOCAP
 
 ### 3. SAMM
 
